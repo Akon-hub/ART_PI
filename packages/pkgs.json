@@ -1,0 +1,12 @@
+[
+ {
+  "path": "/packages/peripherals/agile_button", 
+  "ver": "v1.1.1", 
+  "name": "AGILE_BUTTON"
+ }, 
+ {
+  "path": "/packages/peripherals/agile_led", 
+  "ver": "v1.1.1", 
+  "name": "AGILE_LED"
+ }
+]
